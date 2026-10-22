@@ -17,6 +17,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![INTRO](https://s1.ezgif.com/tmp/ezgif-1d9840814e078dfe.gif)
+
 ---
 [![](https://komarev.com/ghpvc/?username=pranav-aitha&icon=0&color=0)](https://visitcount.itsvg.in)
 
